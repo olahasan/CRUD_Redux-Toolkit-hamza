@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CRUD_Redux-Toolkit/static/css/main.335faf25.css",
+    "main.js": "/CRUD_Redux-Toolkit/static/js/main.f48e5beb.js",
+    "static/js/787.29e49337.chunk.js": "/CRUD_Redux-Toolkit/static/js/787.29e49337.chunk.js",
+    "index.html": "/CRUD_Redux-Toolkit/index.html",
+    "main.335faf25.css.map": "/CRUD_Redux-Toolkit/static/css/main.335faf25.css.map",
+    "main.f48e5beb.js.map": "/CRUD_Redux-Toolkit/static/js/main.f48e5beb.js.map",
+    "787.29e49337.chunk.js.map": "/CRUD_Redux-Toolkit/static/js/787.29e49337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.335faf25.css",
+    "static/js/main.f48e5beb.js"
+  ]
+}
